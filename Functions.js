@@ -31,3 +31,13 @@
 //   return x*y;
 // }
 // console.log(multiply(x,y));
+
+
+//---------arrow function----------
+let multiply = (a, b) => {
+  let result = a * b;
+  return result;
+}
+
+let result1 = multiply(5,7);
+console.log(result1); 
