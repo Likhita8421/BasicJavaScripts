@@ -6,7 +6,7 @@
 // console.log("third");
 
 
-// Asynchronous Code in JavaScript.
+// synchronous Code in JavaScript.
 function abc()
 {
    console.log('abc');
